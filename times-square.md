@@ -53,6 +53,21 @@ Looking back, it's interesting to read those words again—they capture the exci
 
 ---
 
+
+# Official Recognition
+
+Receiving the award was an incredible honor, but what mattered most was the journey behind it.
+
+The competition challenged me to think beyond charts and code—to approach data through the lens of business strategy, storytelling, and decision-making.
+
+<p align="center">
+  <img src="assets/certificate.png"
+       alt="HiCounselor AutoScout24 Certificate"
+       width="75%">
+</p>
+
+---
+
 ## Looking Back
 
 The recognition itself was unforgettable.
